@@ -1,0 +1,31 @@
+{
+  "name": "tldraw-wire-mcp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "本地 tldraw SDK 线稿画布 + MCP server：模型通过 MCP 直接在本地画布上绘制线框原型",
+  "scripts": {
+    "dev": "vite",
+    "dev:mcp": "tsx server/mcp.ts",
+    "smoke": "node scripts/smoke.mjs",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tldraw": "^3.9.0",
+    "ws": "^8.18.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/ws": "^8.18.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "vite": "^6.3.0"
+  }
+}

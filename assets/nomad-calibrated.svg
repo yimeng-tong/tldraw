@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1136" height="1562" viewBox="-8 -14 1136 1562" font-family="PingFang SC, Hiragino Sans GB, Helvetica, sans-serif">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6a737d"/></marker></defs>
+<rect x="-8" y="-14" width="1136" height="1562" fill="#ffffff"/>
+<rect x="40" y="60" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="40" y="52" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">厦门·目的地首页</text>
+<rect x="400" y="60" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="400" y="52" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">厦门·鼓浪屿详情</text>
+<rect x="760" y="60" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="760" y="52" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">鼓浪屿·景点与出行要点</text>
+<rect x="40" y="820" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="40" y="812" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">收集·首页</text>
+<rect x="400" y="820" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="400" y="812" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">搜索·厦门</text>
+<rect x="760" y="820" width="320" height="680" rx="16" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+<text x="760" y="812" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">行程·列表</text>
+<text x="56" y="108" font-size="16" fill="#1f2328" text-anchor="start">＜</text>
+<text x="200" y="108" font-size="15" fill="#1f2328" text-anchor="middle" font-weight="600">厦门</text>
+<text x="342" y="106" font-size="12" fill="#6a737d" text-anchor="end">我的˅ ⌕</text>
+<line x1="52" y1="124" x2="348" y2="124" stroke="#d0d7de" stroke-width="1.2"/>
+<rect x="52" y="142" width="76" height="26" rx="13" fill="#f6f8fa" stroke="#6a737d" stroke-width="1.2"/>
+<text x="90" y="159" font-size="11" fill="#6a737d" text-anchor="middle">26个地点</text>
+<rect x="136" y="142" width="84" height="26" rx="13" fill="#f6f8fa" stroke="#6a737d" stroke-width="1.2"/>
+<text x="178" y="159" font-size="11" fill="#6a737d" text-anchor="middle">待确认 2 ›</text>
+<rect x="52" y="186" width="296" height="96" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="66" y="210" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">鼓浪屿</text>
+<text x="66" y="232" font-size="12" fill="#6a737d" text-anchor="start">街巷漫步 · 登高看海</text>
+<text x="334" y="210" font-size="12" fill="#6a737d" text-anchor="end">♡想去 · 需乘船·岛内多步行</text>
+<rect x="52" y="296" width="296" height="96" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="66" y="320" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">厦门园林植物园</text>
+<text x="66" y="342" font-size="12" fill="#6a737d" text-anchor="start">雨林漫步</text>
+<text x="334" y="320" font-size="12" fill="#6a737d" text-anchor="end">♡想去</text>
+<rect x="52" y="406" width="296" height="90" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="200" y="455" font-size="12" fill="#6a737d" text-anchor="middle">城市天际线（底部裁切）</text>
+<line x1="52" y1="672" x2="348" y2="672" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="80" y="698" font-size="12" fill="#1f2328" text-anchor="middle">地图</text>
+<text x="200" y="698" font-size="12" fill="#6a737d" text-anchor="middle">＋ 准备旅行</text>
+<text x="416" y="108" font-size="16" fill="#1f2328" text-anchor="start">＜</text>
+<text x="560" y="108" font-size="15" fill="#1f2328" text-anchor="middle" font-weight="600">厦门</text>
+<text x="702" y="106" font-size="12" fill="#6a737d" text-anchor="end">•••</text>
+<line x1="412" y1="124" x2="708" y2="124" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="412" y="146" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">鼓浪屿</text>
+<rect x="412" y="166" width="296" height="150" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="560" y="245" font-size="12" fill="#6a737d" text-anchor="middle">鼓浪屿主图</text>
+<rect x="424" y="288" width="76" height="26" rx="13" fill="#f6f8fa" stroke="#6a737d" stroke-width="1.2"/>
+<text x="462" y="305" font-size="11" fill="#6a737d" text-anchor="middle">查看图集</text>
+<rect x="628" y="250" width="70" height="92" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="663" y="300" font-size="12" fill="#6a737d" text-anchor="middle">贴纸小图</text>
+<text x="412" y="370" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">游玩看点</text>
+<text x="412" y="398" font-size="13" fill="#1f2328" text-anchor="start">街巷漫步</text>
+<text x="412" y="418" font-size="11" fill="#6a737d" text-anchor="start">看老别墅与沿街建筑</text>
+<text x="412" y="448" font-size="13" fill="#1f2328" text-anchor="start">滨海散步</text>
+<text x="412" y="468" font-size="11" fill="#6a737d" text-anchor="start">沿海走走，隔海看厦门</text>
+<text x="412" y="508" font-size="13" fill="#1f2328" text-anchor="start">日光岩</text>
+<text x="412" y="528" font-size="11" fill="#6a737d" text-anchor="start">登高俯瞰海岛</text>
+<text x="708" y="508" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<rect x="412" y="560" width="296" height="90" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="560" y="609" font-size="12" fill="#6a737d" text-anchor="middle">日光岩照片</text>
+<line x1="412" y1="672" x2="708" y2="672" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="440" y="698" font-size="12" fill="#1f2328" text-anchor="middle">地图</text>
+<text x="560" y="698" font-size="12" fill="#6a737d" text-anchor="middle">♡ 想去</text>
+<text x="776" y="108" font-size="16" fill="#1f2328" text-anchor="start">＜</text>
+<text x="920" y="108" font-size="15" fill="#1f2328" text-anchor="middle" font-weight="600">鼓浪屿</text>
+<text x="1062" y="106" font-size="12" fill="#6a737d" text-anchor="end">•••</text>
+<line x1="772" y1="124" x2="1068" y2="124" stroke="#d0d7de" stroke-width="1.2"/>
+<rect x="772" y="136" width="84" height="56" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="814" y="168" font-size="12" fill="#6a737d" text-anchor="middle">日光岩</text>
+<text x="864" y="154" font-size="13" fill="#1f2328" text-anchor="start">日光岩</text>
+<text x="864" y="174" font-size="11" fill="#6a737d" text-anchor="start">登高俯瞰海岛</text>
+<text x="1068" y="154" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<rect x="772" y="204" width="84" height="56" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="814" y="236" font-size="12" fill="#6a737d" text-anchor="middle">菽庄花园</text>
+<text x="864" y="222" font-size="13" fill="#1f2328" text-anchor="start">菽庄花园</text>
+<text x="864" y="242" font-size="11" fill="#6a737d" text-anchor="start">逛临海园林</text>
+<text x="1068" y="222" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<text x="772" y="290" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">出行要点</text>
+<text x="772" y="318" font-size="13" fill="#1f2328" text-anchor="start">需乘船上岛 ›</text>
+<text x="772" y="352" font-size="13" fill="#1f2328" text-anchor="start">岛内以步行为主 ›</text>
+<text x="772" y="386" font-size="13" fill="#1f2328" text-anchor="start">船票与景点门票分开 ›</text>
+<text x="772" y="420" font-size="13" fill="#1f2328" text-anchor="start">关于鼓浪屿 ›</text>
+<text x="772" y="454" font-size="13" fill="#1f2328" text-anchor="start">内容来源 ›</text>
+<line x1="772" y1="672" x2="1068" y2="672" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="800" y="698" font-size="12" fill="#1f2328" text-anchor="middle">地图</text>
+<text x="920" y="698" font-size="12" fill="#6a737d" text-anchor="middle">♡ 想去</text>
+<text x="52" y="844" font-size="11" fill="#6a737d" text-anchor="start">9:41</text>
+<rect x="52" y="856" width="32" height="32" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="68" y="876" font-size="12" fill="#6a737d" text-anchor="middle">头像</text>
+<line x1="96" y1="862" x2="348" y2="862" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="124" y="888" font-size="12" fill="#1f2328" text-anchor="middle">收集</text>
+<text x="222" y="888" font-size="12" fill="#6a737d" text-anchor="middle">行程</text>
+<text x="312" y="888" font-size="12" fill="#6a737d" text-anchor="middle">📄</text>
+<rect x="52" y="900" width="296" height="40" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="86" y="924" font-size="12" fill="#6a737d" text-anchor="start">搜索城市或景点</text>
+<text x="64" y="924" font-size="12" fill="#6a737d" text-anchor="start">Q</text>
+<rect x="52" y="952" width="180" height="28" rx="14" fill="#f6f8fa" stroke="#6a737d" stroke-width="1.2"/>
+<text x="142" y="970" font-size="11" fill="#6a737d" text-anchor="middle">✈ 厦门 · 10月23日出发 ›</text>
+<text x="52" y="1010" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">我的收集</text>
+<text x="52" y="1036" font-size="13" fill="#1f2328" text-anchor="start">厦门</text>
+<text x="52" y="1056" font-size="11" fill="#6a737d" text-anchor="start">26个地点 · 待确认2</text>
+<text x="272" y="1036" font-size="11" fill="#6a737d" text-anchor="end">查看全部›</text>
+<rect x="286" y="1022" width="62" height="48" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="317" y="1050" font-size="12" fill="#6a737d" text-anchor="middle">贴纸</text>
+<text x="52" y="1088" font-size="13" fill="#1f2328" text-anchor="start">杭州</text>
+<text x="52" y="1108" font-size="11" fill="#6a737d" text-anchor="start">12个地点</text>
+<text x="52" y="1144" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">热门目的地 ›</text>
+<rect x="52" y="1156" width="142" height="60" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="66" y="1180" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">大理</text>
+<rect x="206" y="1156" width="142" height="60" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="220" y="1180" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">泉州</text>
+<rect x="52" y="1240" width="296" height="40" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="86" y="1264" font-size="12" fill="#6a737d" text-anchor="start">🔗 粘贴链接或输入城市</text>
+<text x="64" y="1264" font-size="12" fill="#6a737d" text-anchor="start">Q</text>
+<rect x="52" y="1292" width="100" height="40" rx="20" fill="#ffffff" stroke="#1f2328" stroke-width="1.2"/>
+<text x="102" y="1316" font-size="13" fill="#1f2328" text-anchor="middle">粘贴</text>
+<rect x="164" y="1292" width="184" height="40" rx="20" fill="#ffffff" stroke="#1f2328" stroke-width="1.2"/>
+<text x="256" y="1316" font-size="13" fill="#1f2328" text-anchor="middle">导入 →</text>
+<text x="412" y="844" font-size="11" fill="#6a737d" text-anchor="start">9:41</text>
+<rect x="412" y="856" width="240" height="40" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="446" y="880" font-size="12" fill="#6a737d" text-anchor="start">厦门 ×</text>
+<text x="424" y="880" font-size="12" fill="#6a737d" text-anchor="start">Q</text>
+<text x="664" y="880" font-size="12" fill="#1f2328" text-anchor="start">取消</text>
+<text x="412" y="922" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">城市</text>
+<text x="412" y="948" font-size="13" fill="#1f2328" text-anchor="start">厦门</text>
+<text x="412" y="968" font-size="11" fill="#6a737d" text-anchor="start">福建</text>
+<text x="708" y="948" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<text x="412" y="1004" font-size="13" fill="#1f2328" text-anchor="start" font-weight="600">景点</text>
+<text x="412" y="1030" font-size="13" fill="#1f2328" text-anchor="start">厦门大学</text>
+<text x="412" y="1050" font-size="11" fill="#6a737d" text-anchor="start">厦门</text>
+<text x="708" y="1030" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<text x="412" y="1080" font-size="13" fill="#1f2328" text-anchor="start">厦门园林植物园</text>
+<text x="412" y="1100" font-size="11" fill="#6a737d" text-anchor="start">厦门</text>
+<text x="708" y="1080" font-size="11" fill="#6a737d" text-anchor="end">›</text>
+<rect x="404" y="1128" width="304" height="356" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="556" y="1310" font-size="12" fill="#6a737d" text-anchor="middle">拼音键盘（候选：我 你 在 这 不 好 一 是）</text>
+<text x="772" y="844" font-size="11" fill="#6a737d" text-anchor="start">9:41</text>
+<rect x="772" y="856" width="32" height="32" rx="8" fill="#fbfcfd" stroke="#6a737d" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="788" y="876" font-size="12" fill="#6a737d" text-anchor="middle">头像</text>
+<line x1="816" y1="862" x2="1068" y2="862" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="844" y="888" font-size="12" fill="#1f2328" text-anchor="middle">收集</text>
+<text x="942" y="888" font-size="12" fill="#6a737d" text-anchor="middle">行程</text>
+<text x="1032" y="888" font-size="12" fill="#6a737d" text-anchor="middle">📄</text>
+<rect x="772" y="900" width="296" height="40" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="806" y="924" font-size="12" fill="#6a737d" text-anchor="start">搜索城市或景点</text>
+<text x="784" y="924" font-size="12" fill="#6a737d" text-anchor="start">Q</text>
+<rect x="772" y="952" width="296" height="120" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="786" y="976" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">厦门3天</text>
+<text x="786" y="998" font-size="12" fill="#6a737d" text-anchor="start">10月23日 — 25日</text>
+<text x="1054" y="976" font-size="12" fill="#6a737d" text-anchor="end">•••</text>
+<rect x="772" y="1084" width="296" height="84" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="786" y="1108" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">苏州周末</text>
+<text x="786" y="1130" font-size="12" fill="#6a737d" text-anchor="start">日期未定</text>
+<text x="1054" y="1108" font-size="12" fill="#6a737d" text-anchor="end">•••</text>
+<rect x="772" y="1180" width="296" height="84" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="786" y="1204" font-size="14" fill="#1f2328" text-anchor="start" font-weight="600">杭州2天</text>
+<text x="786" y="1226" font-size="12" fill="#6a737d" text-anchor="start">9月12日 — 13日</text>
+<text x="1054" y="1204" font-size="12" fill="#6a737d" text-anchor="end">•••</text>
+<rect x="772" y="1416" width="160" height="44" rx="22" fill="#ffffff" stroke="#1f2328" stroke-width="1.2"/>
+<text x="852" y="1442" font-size="13" fill="#1f2328" text-anchor="middle">🔗 导入链接</text>
+<rect x="1014" y="1410" width="52" height="52" rx="26" fill="#ffffff" stroke="#1f2328" stroke-width="1.2"/>
+<text x="1040" y="1440" font-size="13" fill="#1f2328" text-anchor="middle">＋</text>
+</svg>
